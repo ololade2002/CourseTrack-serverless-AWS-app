@@ -36,7 +36,7 @@ Live Demo: https://d11hc25q0b3oxs.cloudfront.net
 ![Homepage](./frontend/courseTracker/docs/api.jpeg)
 
 ### Dashboard
-![Dashboard](./docs/dashboard.png)
+![Dashboard](./frontend/courseTracker/docs/dashboard.png)
 
 ### Courses Page
 ![Courses](./frontend/courseTracker/docs/coursesPage.png)
