@@ -7,7 +7,7 @@ A full-stack serverless course tracking app that helps users manage their learni
 Live Demo: https://d11hc25q0b3oxs.cloudfront.net
 
 ## Architecture
-![Architecture](./docs/Blank%20diagram.png)
+![Architecture](./frontend/courseTracker/docs/Blank%20diagram.png)
 
 ## How it works
 
@@ -33,31 +33,31 @@ Live Demo: https://d11hc25q0b3oxs.cloudfront.net
 ## Screenshots
 
 ### Homepage
-![Homepage](./docs/homepage2.png)
+![Homepage](./frontend/courseTracker/docs/api.jpeg)
 
 ### Dashboard
 ![Dashboard](./docs/dashboard.png)
 
 ### Courses Page
-![Courses](./docs/coursesPage.png)
+![Courses](./frontend/courseTracker/docs/coursesPage.png)
 
 ### Login Page
-![Login](./docs/login.png)
+![Login](./frontend/courseTracker/docs/login.png)
 
 ### CloudFront Distribution
-![CloudFront Distribution](./docs/cloudfront.jpeg)
+![CloudFront Distribution](./frontend/courseTracker/docs/cloudfront.jpeg)
 
 ### API Gateway
-![API](./docs/api.jpeg)
+![API](./frontend/courseTracker/docs/api.jpeg)
 
 ### Cognito
-![Cognito](./docs/cognito.jpeg)
+![Cognito](./frontend/courseTracker/docs/cognito.jpeg)
 
 ### Lambda
-![Lambda](./docs/lambda.png)
+![Lambda](./frontend/courseTracker/docs/lambda.png)
 
 ### s3 Storage
-![S3](./docs/s3.png)
+![S3](./frontend/courseTracker/docs/s3.png)
 
 
 ## Features
