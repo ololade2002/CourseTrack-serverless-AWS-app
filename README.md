@@ -33,7 +33,7 @@ Live Demo: https://d11hc25q0b3oxs.cloudfront.net
 ## Screenshots
 
 ### Homepage
-![Homepage](./frontend/courseTracker/docs/api.jpeg)
+![Homepage](./frontend/courseTracker/docs/homepage2.png)
 
 ### Dashboard
 ![Dashboard](./frontend/courseTracker/docs/dashboard.png)
